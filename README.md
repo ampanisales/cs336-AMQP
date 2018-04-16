@@ -6,5 +6,8 @@
   by the sender program (emit_log.py). Essentially, published log messages 
   are going to be broadcast to all the receivers.
   
+- Requires installing RabbitMQ and running it on "localhost" on standard
+  port(5672).
+  
 - Code inspired by this source:
-		https://www.rabbitmq.com/tutorials/tutorial-three-python.html
+	https://www.rabbitmq.com/tutorials/tutorial-three-python.html
