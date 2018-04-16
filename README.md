@@ -7,7 +7,7 @@
   are going to be broadcast to all the receivers.
   
 - Requires installing RabbitMQ and running it on "localhost" on standard
-  port(5672).
+  port (5672).
   
 - Code inspired by this source:
 	https://www.rabbitmq.com/tutorials/tutorial-three-python.html
